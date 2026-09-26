@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Shipra 👋
+### I'm Shipra 
 
 🎓 Pursuing my Master's in **Data Science & BIOAI**
 📍 Thiruvananthapuram, Kerala
@@ -9,7 +9,7 @@
 ---
 
 ### 🔧 What I work with
-`Python` `Scikit-learn` `Kubernetes` `Kafka` `Pandas` `MongoDb` `SQL` `Jupyter Notebook`
+`Python` `PowerBI` `Kubernetes` `Kafka` `Pandas` `MongoDb` `SQL` `Jupyter Notebook`
 
 ### 🚀 Featured Projects
 
