@@ -4,10 +4,6 @@
 
 ![Skills](https://skillicons.dev/icons?i=python,sklearn,pandas,jupyter,git)
 
-##  Hi there 👋
-
-### I'm Shipra 
-
 🎓 Pursuing my Master's in **Data Science & BIOAI**
 📍 Thiruvananthapuram, Kerala
 💡 Passionate about applying Python & Machine Learning to real-world data problems
