@@ -35,3 +35,8 @@ An AI-powered agent delivering real-time market insights for the Zomato IPO, usi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shiprachoubey540-bit/shiprachoubey540-bit/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/shiprachoubey540-bit/shiprachoubey540-bit/output/github-contribution-grid-snake.svg">
 </picture>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6236FF&height=150&section=header&text=Hi,%20I'm%20Shipra&fontSize=36&fontColor=ffffff&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Data+Analytics+%26+BIOAI;Machine+Learning+for+Healthcare;NLP+%26+Sentiment+Analysis;Financial+ML+Applications)](https://git.io/typing-svg)
+
+![Skills](https://skillicons.dev/icons?i=python,sklearn,pandas,jupyter,git)
