@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6236FF&height=150&section=header&text=Hi,%20I'm%20Shipra&fontSize=36&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:FFF3B0,100:F5D742&height=150&section=header&text=Hi,%20I%27m%20Shipra&fontSize=36&fontColor=3B2F00)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Data+Analytics+%26+BIOAI;Machine+Learning+for+Healthcare;NLP+%26+Sentiment+Analysis;Financial+ML+Applications)](https://git.io/typing-svg)
 
