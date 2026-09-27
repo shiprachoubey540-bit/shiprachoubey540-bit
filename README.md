@@ -1,17 +1,20 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:FFF3B0,100:F5D742&height=150&section=header&text=Hi,%20I%27m%20Shipra&fontSize=36&fontColor=3B2F00)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Data+Analytics+%26+BIOAI;Machine+Learning+for+Healthcare;NLP+%26+Sentiment+Analysis;Financial+ML+Applications)](https://git.io/typing-svg)
-
-![Skills](https://skillicons.dev/icons?i=python,sklearn,pandas,jupyter,git)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFF3B0,100:F5D742&height=220&section=header&text=Hi,%20I%27m%20Shipra&fontSize=36&fontColor=3B2F00&animation=fadeIn)
+---
+###  What I work with
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 🎓 Pursuing my Master's in **Data Science & BIOAI**
 📍 Thiruvananthapuram, Kerala
 💡 Passionate about applying Python & Machine Learning to real-world data problems
-
----
-
-### 🔧 What I work with
-`Python` `PowerBI` `Hadoop` `Spark``Kubernetes` `Kafka` `Pandas` `MongoDb` `SQL` `Jupyter Notebook`
 
 ### 🚀 Featured Projects
 
